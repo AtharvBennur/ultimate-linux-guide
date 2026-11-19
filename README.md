@@ -45,3 +45,9 @@ Please refer to the folders at the root level of this repository to go through t
 | 19 | [Advanced Storage](20-advanced-storage/) | Filesystems, mounting, LVM, EBS, EFS, links, and inodes |
 | 20 | [Troubleshooting](21-troubleshooting/) | Resource, service, network, storage, and process diagnosis |
 | 21 | [Boot Process](22-boot-process/) | Firmware, GRUB, kernel, initramfs, systemd targets, and recovery |
+| 22 | [Kernel Management](23-kernel-management/) | Kernel versions, modules, procfs, sysfs, sysctl, and kernel logs |
+| 23 | [Performance Diagnostics](24-performance-diagnostics/) | Load, CPU, memory, I/O, sysstat, and performance investigation |
+| 24 | [Swap and Resource Limits](25-swap-and-resource-limits/) | Swap, swappiness, file descriptors, ulimit, and systemd limits |
+| 25 | [Linux Security Hardening](26-linux-security-hardening/) | SELinux, AppArmor, capabilities, auditd, and security auditing |
+| 26 | [Container Linux Fundamentals](27-container-linux-fundamentals/) | Namespaces, cgroups, OverlayFS, capabilities, and seccomp |
+| 27 | [Time and Host Management](28-time-and-host-management/) | UTC, timezone, Chrony, hostname, hosts, and DNS resolution |
