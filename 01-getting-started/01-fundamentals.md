@@ -1,4 +1,29 @@
-# Linux over Windows
+# Linux Fundamentals
+
+## What Is Linux?
+
+Linux is an open-source operating-system kernel. In everyday use, "Linux" often
+refers to a complete operating system built around that kernel, together with
+system utilities, libraries, and applications.
+
+## Kernel, Shell, and Distribution
+
+- **Kernel:** The core of the operating system. It manages hardware, memory,
+  processes, and communication between software and devices.
+- **Shell:** A program that reads commands and starts other programs. Bash is a
+  common shell; it is separate from the kernel.
+- **Distribution (distro):** An operating system built around the Linux
+  kernel, with user-space tools, package management, defaults, and a release
+  process. Ubuntu, Debian, Fedora, and Red Hat Enterprise Linux are examples.
+
+Use these commands to see kernel and distribution information:
+
+```bash
+uname -r
+cat /etc/os-release
+```
+
+## Linux over Windows
 
 ### Cost-Effectiveness
 - **Free and Open Source**: Linux does not require expensive licensing fees, making it a cost-effective choice for companies.
