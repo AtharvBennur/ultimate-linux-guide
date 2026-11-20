@@ -4,8 +4,9 @@ This repository is created to serve as a revision notes for the YouTube course c
 
 This guide covers Linux fundamentals, distributions, setup, filesystem layout,
 users and groups, file management, editors, permissions, processes, monitoring,
-networking, storage, and package management. It also includes administration
-and advanced topics such as systemd, cron, logs, SSH, text processing,
+networking, storage, package management, shell environments, and command-line
+job control. It also includes administration and advanced topics such as systemd,
+cron, logs, SSH, text processing,
 troubleshooting, boot and kernel management, performance diagnostics, security
 hardening, containers, and time and host management.
 
@@ -25,6 +26,7 @@ Please refer to the folders at the root level of this repository to go through t
 | 08 | [Monitoring](08-monitoring/) | CPU, memory, disk, and system monitoring |
 | 09 | [Networking](09-networking/) | Basic connectivity and network commands |
 | 10 | [Disk Management](10-disk-management/) | Partitions and storage fundamentals |
+| 11 | [Shell Environment](11-shell-environment/) | Environment variables, streams, redirection, pipes, jobs, and tmux |
 | 12 | [Systemd](12-systemd-service-management/) | Services, units, startup behavior, and journald |
 | 13 | [Packages](13-package-management/) | APT, DPKG, YUM, DNF, repositories, and dependencies |
 | 14 | [Scheduled Tasks](14-cron-jobs/) | Cron expressions, user jobs, system jobs, and logging |
